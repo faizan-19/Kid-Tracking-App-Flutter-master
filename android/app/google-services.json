@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "405460204277",
+    "project_id": "kidstrackings",
+    "storage_bucket": "kidstrackings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405460204277:android:35989ceba860d4ca0de3bc",
+        "android_client_info": {
+          "package_name": "com.olamibode.kids_tracking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405460204277-ete8h9e542vknr3nvcqu71av687tgfbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmzDXzbbrXUCA1mCCj1PDoTVQNwnE8erQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405460204277-ete8h9e542vknr3nvcqu71av687tgfbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
